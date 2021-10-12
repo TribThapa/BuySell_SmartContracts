@@ -1,7 +1,7 @@
 ## Making smart contracts with SOLIDITY
 
 <p align="center">
-   	<img src="/Images/SOL_ETH.png" width="1200" height="500">
+   	<img src="Images/SOL_ETH.png" width="1200" height="500">
 </p>
 
 <p>&nbsp;</p>
